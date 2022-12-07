@@ -1,0 +1,12 @@
+.img {
+    width: 300px;
+    height: 300px;
+    border: 1px solid red;
+}
+
+
+.box-all-screen {
+    width: 100vw;
+    height: 100vh;
+    border: 1px solid red;
+}
